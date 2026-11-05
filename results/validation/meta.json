@@ -1,0 +1,22 @@
+{
+  "experiment": "validation",
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "runs": 80,
+  "seconds": 12.9,
+  "python": "3.11.0",
+  "numpy": "2.2.6",
+  "pandas": "2.2.3",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "date": "2026-11-05 08:38"
+}

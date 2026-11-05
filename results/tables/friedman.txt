@@ -1,0 +1,2 @@
+p99: Friedman chi2=508.2, p=1.34e-107, blocks=120, k=6, Nemenyi CD=0.69
+mean: Friedman chi2=519.2, p=5.84e-110, blocks=120, k=6, Nemenyi CD=0.69

@@ -1,0 +1,56 @@
+{
+  "baseline": {
+    "best_p99": "LC",
+    "best_mean": "LC",
+    "ased_p99_ms": 239.3,
+    "ased_mean_ms": 56.4,
+    "ased_err_pct": 0.0,
+    "rank_p99": 3,
+    "rank_mean": 3
+  },
+  "heterogeneous": {
+    "best_p99": "LRT",
+    "best_mean": "ASED",
+    "ased_p99_ms": 355.1,
+    "ased_mean_ms": 55.0,
+    "ased_err_pct": 0.0,
+    "rank_p99": 2,
+    "rank_mean": 1
+  },
+  "bursty": {
+    "best_p99": "ASED",
+    "best_mean": "ASED",
+    "ased_p99_ms": 834.4,
+    "ased_mean_ms": 122.9,
+    "ased_err_pct": 0.091,
+    "rank_p99": 1,
+    "rank_mean": 1
+  },
+  "flash_crowd": {
+    "best_p99": "ASED",
+    "best_mean": "LRT",
+    "ased_p99_ms": 676.4,
+    "ased_mean_ms": 98.4,
+    "ased_err_pct": 0.04,
+    "rank_p99": 1,
+    "rank_mean": 2
+  },
+  "server_crash": {
+    "best_p99": "ASED",
+    "best_mean": "ASED",
+    "ased_p99_ms": 368.2,
+    "ased_mean_ms": 60.3,
+    "ased_err_pct": 0.13,
+    "rank_p99": 1,
+    "rank_mean": 1
+  },
+  "gray_failure": {
+    "best_p99": "ASED",
+    "best_mean": "ASED",
+    "ased_p99_ms": 409.3,
+    "ased_mean_ms": 63.4,
+    "ased_err_pct": 0.0,
+    "rank_p99": 1,
+    "rank_mean": 1
+  }
+}
